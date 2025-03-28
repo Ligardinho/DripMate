@@ -1,7 +1,4 @@
 import React from 'react'
-import { GiArtificialHive } from "react-icons/gi";
-import Image from 'next/image';
-
 
 const Hero = () => {
   return (

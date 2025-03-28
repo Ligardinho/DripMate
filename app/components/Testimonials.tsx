@@ -1,5 +1,4 @@
 import React from 'react' 
-import { CarouselSize } from '@/components/ui/Review'
 import Image from 'next/image'
 
 const Testimonials = () => {
